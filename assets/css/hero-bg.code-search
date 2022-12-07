@@ -1,0 +1,9 @@
+# Query: portfolio-details-1
+# ContextLines: 1
+
+1 result - 1 file
+
+portfolio-details.html:
+  52                  <div class="swiper-slide">
+  53:                   <img src="h7.jpg" alt="">
+  54                  </div>
